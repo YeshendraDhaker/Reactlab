@@ -8,8 +8,6 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
 # Phase 1
 <details>
   <summary><strong>1. Getting Started</strong></summary>
-
-  - Welcome To The Course!  
   - Introduction to React JS + Installation  
   - Creating our First React App  
 </details>
