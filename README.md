@@ -1,4 +1,4 @@
-# React Complete Course Ultimate Roadmap
+# React Ultimate Roadmap
 
 Master React.js from basics to advanced concepts, including modern patterns, testing, and deployment.
 
@@ -140,7 +140,6 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
   - Using the Browser Debugger & Breakpoints  
   - Understanding React's "Strict Mode"  
   - Using the React DevTools (Browser Extension)  
-  - Exercise: Fix Errors  
 </details>
 
 <details>
@@ -212,9 +211,7 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
 </details>
 
 <details>
-  <summary><strong>9. Handling Side Effects & Working with the useEffect() Hook</strong></summary>
-
-  - Module Introduction & Starting Project  
+  <summary><strong>9. Working with the useEffect() Hook</strong></summary>
   - What's a "Side Effect"? A Thorough Example  
   - A Potential Problem with Side Effects: An Infinite Loop  
   - Using useEffect for Handling (Some) Side Effects  
@@ -247,39 +244,6 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
   - Moving Logic To Components That Actually Need It ("Moving State Down")  
   - Setting Different Timers Based On The Selected Answer  
   - Outputting Quiz Results  
-</details>
-
-<details>
-  <summary><strong>11. A Look Behind The Scenes Of React & Optimization Techniques</strong></summary>
-
-  - Module Introduction  
-  - React Builds A Component Tree / How React Works Behind The Scenes  
-  - Analyzing Component Function Executions via React's DevTools Profiler  
-  - Avoiding Component Function Executions with memo()  
-  - Avoiding Component Function Executions with Clever Structuring  
-  - Understanding the useCallback() Hook  
-  - Understanding the useMemo() Hook  
-  - React Uses A Virtual DOM - Time To Explore It!  
-  - Why Keys Matter When Managing State!  
-  - More Reasons For Why Keys Matter  
-  - Using Keys For Resetting Components  
-  - State Scheduling & Batching  
-  - Optimizing React with MillionJS  
-</details>
-
-<details>
-  <summary><strong>12. An Alternative Way Of Building Components: Class-based Components</strong></summary>
-
-  - Module Introduction  
-  - What & Why  
-  - Adding a First Class-based Component  
-  - Working with State & Events  
-  - The Component Lifecycle (Class-based Components Only!)  
-  - Lifecycle Methods In Action  
-  - Class-based Components & Context  
-  - Class-based vs Functional Components: A Summary  
-  - Introducing Error Boundaries  
-  - Module Resources  
 </details>
 
 <details>
@@ -353,7 +317,6 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
   - Sending an HTTP Request via a Form Action  
   - Using the "pending" State from useFormStatus()  
   - Adding Optimistic Updating  
-  - Module Summary  
 </details>
 
 <details>
@@ -406,7 +369,6 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
   - Working with Multiple Slices  
   - Reading & Dispatching From A New Slice  
   - Splitting Our Code  
-  - Summary  
 </details>
 
 <details>
@@ -426,8 +388,7 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
   - Using an Action Creator Thunk  
   - Getting Started with Fetching Data  
   - Finalizing the Fetching Logic  
-  - Exploring the Redux DevTools  
-  - Summary  
+  - Exploring the Redux DevTools   
 </details>
 
 <details>
@@ -474,9 +435,6 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
   - Deferring Data Fetching with defer()  
   - defer() and json() with React Router v7  
   - Controlling Which Data Should Be Deferred  
-  - Module Summary  
-  - Module Resources  
-  - Old Lectures  
 </details>
 
 <details>
@@ -496,7 +454,6 @@ Master React.js from basics to advanced concepts, including modern patterns, tes
   - Adding Route Protection  
   - Adding Automatic Logout  
   - Managing the Token Expiration  
-  - Module Resources  
 </details>
 
 <details>
