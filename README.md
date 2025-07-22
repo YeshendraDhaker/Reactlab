@@ -2,7 +2,7 @@
 
 Master React.js from basics to advanced concepts, including modern patterns, testing, and deployment.
 
-Follow my youtube channel: [Yeshendra Dhaker](youtube.com/@yeshendradhaker)
+Follow my youtube channel: [Yeshendra Dhaker](https://youtube.com/@yeshendradhaker)
 
 # 1. Getting Started
 # 2. React Essentials - Components, JSX, Props, State & More
